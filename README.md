@@ -10,4 +10,4 @@
     - predict(x, m, c)
     - score(y_truth, y_pred)
     - cost(x, y, m, c)
-5. Predicting a dataset by using a linear regression algorithm, trained on a set of given data
+5. Predicting a dataset by using a linear regression algorithm, trained on a set of given diabetes data
