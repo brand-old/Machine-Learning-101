@@ -12,3 +12,4 @@
     - cost(x, y, m, c)
 5. Predicting a dataset by using a linear regression algorithm, trained on a set of given diabetes data.
 6. Adding another dimention to the LR to check for score improvement.
+7. Attempting optimization on a 1D LR by minimizing the cost, using Gradient Descent.
