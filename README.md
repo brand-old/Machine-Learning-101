@@ -14,5 +14,5 @@
 6. Adding a second dimention to the LR to check for score improvement.
 7. Attempting optimization on a 1D LR by minimizing the cost, using Batch Gradient Descent.
 8. Tweaking the penalty classification parameter and attempting to Score the testing and training data using Logistic Regression.
-9. [practicing classification parameters and their effects on the applied logistic regression model]
+9. Practicing classification parameters and their effects on the applied logistic regression model
 10. Printing the Confusion Matrix on a logistic regression model prediction.
