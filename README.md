@@ -1,4 +1,6 @@
-# Machine-Learning-101
+## Machine-Learning-101
+
+# Topics
 
 1. Loading and Splitting the dataset from the sklearn library into training and testing arrays in the ratio of 70:30 and print the shape.
 2. Fitting the dataset on a created Linear Regressor and printing the Coefficient and Intercept.
@@ -12,3 +14,5 @@
 6. Adding a second dimention to the LR to check for score improvement.
 7. Attempting optimization on a 1D LR by minimizing the cost, using Batch Gradient Descent.
 8. Tweaking the penalty classification parameter and attempting to Score the testing and training data using Logistic Regression.
+9. 
+10. Printing the Confusion Matrix on a logistic regression model prediction.
